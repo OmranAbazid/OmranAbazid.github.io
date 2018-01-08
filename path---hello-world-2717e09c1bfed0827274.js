@@ -1,0 +1,2 @@
+webpackJsonp([0x834755aae49e],{496:function(e,t){e.exports={data:{site:{siteMetadata:{title:"OmranAbazid Blog",author:"Omran Abazid"}},markdownRemark:{id:"D:/Web Development/blog/src/pages/hello-world/index.md absPath of file >>> MarkdownRemark",html:"<p>This is my first post on my new blog!</p>\n<p>I’m excited to share my throughs and ideas with everyone!</p>",frontmatter:{title:"First Post",date:"January 09, 2017"}}},pathContext:{slug:"/hello-world/"}}}});
+//# sourceMappingURL=path---hello-world-2717e09c1bfed0827274.js.map
